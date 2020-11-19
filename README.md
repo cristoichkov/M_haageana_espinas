@@ -10,13 +10,13 @@
 ##### Software:
 - [ImageJ 1.52a](https://imagej.nih.gov/ij/)
 - [R 3.6.3](https://www.r-project.org/)
-- [RStudio 3.6.3](https://rstudio.com/)
+- [RStudio 1.2.1335](https://rstudio.com/)
 
 
 ##### R packages:
 - [tidyr- 1.1.2](https://tidyr.tidyverse.org/)
 - [dplyr - 1.0.2](https://dplyr.tidyverse.org/)
-- [ggplot2 - 1.2.1335](https://ggplot2.tidyverse.org/)
+- [ggplot2 - 3.3.2](https://ggplot2.tidyverse.org/)
 - NISTunits - 1.0.1
 - cluster - 2.1.0
 - htmltools - 0.4.0
